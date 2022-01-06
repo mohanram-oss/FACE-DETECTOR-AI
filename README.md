@@ -2,7 +2,6 @@ PRE REQIRMENTS :
 
 pip install import cv2
 pip install face_recognition
-
 a working webcam in your device.
 
 
